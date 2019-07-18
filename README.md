@@ -1,5 +1,5 @@
 
-# Action Cable Sample
+# Code kata of "Usign Action Cable With React"
 
 Reference
 
